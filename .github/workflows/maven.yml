@@ -10,7 +10,7 @@ name: Test Automation Framework
 
 on:
 schedule:
--cron: 20 6 * * *
+-cron: 11 12 * * *
   push:
     branches: [ "master" ]
   pull_request:
